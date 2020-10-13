@@ -1,0 +1,10 @@
+NOMBRE                              TIPO DE DATO     VALOR                               LONGITUD                           
+suma                                FLOAT                                                                                   
+promedio                            FLOAT                                                                                   
+contador                            INTEGER                                                                                 
+actual                              FLOAT                                                                                   
+_92                                 const Integer    92                                                                     
+_2                                  const Integer    2                                                                      
+_10                                 const Integer    10                                                                     
+_1                                  const Integer    1                                                                      
+_0                                  const Integer    0                                                                      

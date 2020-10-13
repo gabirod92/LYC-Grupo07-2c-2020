@@ -1,0 +1,24 @@
+DIM [contador,promedio,actual,suma] AS [INTEGER,FLOAT,FLOAT,FLOAT]
+PUT contador;
+PUT contador;
+GET actual;
+contador: 0;
+PUT "kkkkkkkkkkkkkkkkkkkkkkkkkkk" ;
+suma: 2;
+WHILE(contador <= 92) {
+contador: contador + 1;
+suma: suma + actual;
+PUT "holjhfjfsdfchgffkdhgkookjh" ;
+PUT "hola" ;
+}
+PUT suma;
+PUT suma;
+IF(actual > 10){
+PUT actual ;
+}
+ELSE {
+PUT contador;
+}
+IF (actual < actual){
+PUT contador;
+}
